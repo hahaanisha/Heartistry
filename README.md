@@ -78,7 +78,7 @@ Heartistry directly contributes to:
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/hahaanisha/Heartistry.git
-cd heartistry
+cd Heartistry
 ```
 
 ### 2. Install Dependencies
